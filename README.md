@@ -1,5 +1,7 @@
 # Git WebHook
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ch-games/git-webhook.svg)](https://greenkeeper.io/)
+
 > 一个使用 Python Flask + SQLAchemy + Celery + Redis + React 开发的用于迅速搭建并使用  WebHook 进行自动化部署和运维系统，支持：**Github / GitLab / Gogs / GitOsc**。
 
 **若觉得 git-webhook 部署依然比较复杂，可以尝试更为简洁的 cli 版本：[webhookit](https://github.com/hustcc/webhookit)。**在线实例可以查看[这里](http://webhookit.hust.cc)。
